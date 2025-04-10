@@ -1,0 +1,9 @@
+{
+  "token": "abc123-def456",
+  "user": {
+    "firstName": "Bonnie",
+    "lastName": "Beatty",
+    "alias": "@bonnie",
+    "imageUrl": "https://example.com/bonnie.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "token": "abc123-def456",
+  "status": {
+    "post": "Hello @world! Visit https://byu.edu",
+    "timestamp": 1711400000000,
+    "userAlias": "@allen"
+  }
+}

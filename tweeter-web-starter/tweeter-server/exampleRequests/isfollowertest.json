@@ -1,0 +1,15 @@
+{
+  "authToken": "abc123-def456",
+  "user": {
+    "firstName": "Allen",
+    "lastName": "Anderson",
+    "alias": "@allen",
+    "imageUrl": "https://example.com/allen.png"
+  },
+  "selectedUser": {
+    "firstName": "Bonnie",
+    "lastName": "Beatty",
+    "alias": "@bonnie",
+    "imageUrl": "https://example.com/bonnie.png"
+  }
+}
